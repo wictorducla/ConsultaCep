@@ -1,0 +1,29 @@
+[
+  {
+    "cep": "50070-010",
+    "logradouro": "Rua do Giriquiti",
+    "complemento": "",
+    "bairro": "Boa Vista",
+    "localidade": "Recife",
+    "uf": "PE",
+    "ddd": 81
+  },
+  {
+    "cep": "54440-350",
+    "logradouro": "Avenida Abdo Cabus",
+    "complemento": "",
+    "bairro": "Candeias",
+    "localidade": "Jaboatão dos Guararapes",
+    "uf": "PE",
+    "ddd": 81
+  },
+  {
+    "cep": "54440-380",
+    "logradouro": "Rua Alfredo Regis Lima Mota",
+    "complemento": "",
+    "bairro": "Candeias",
+    "localidade": "Jaboatão dos Guararapes",
+    "uf": "PE",
+    "ddd": 81
+  }
+]
